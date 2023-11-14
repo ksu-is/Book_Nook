@@ -1,0 +1,6 @@
+- [x] Post project idea on the Teams Projects Spreadsheet
+- [x] Make sure project idea is a "go" otherwise make necessary changes.
+- [x] Join the class organization (KSU-IS) on Github by accepting invite.
+- [x] Create a public repository for Book_Nook.
+- [x] Create README.md and write out project description.
+- [x] Start a new file in repository for project road map and start entering your project to-do list.
