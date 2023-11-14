@@ -4,4 +4,4 @@
 - [x] Create a public repository for Book_Nook.
 - [x] Create README.md and write out project description.
 - [x] Start a new file in repository for project road map and start entering your project to-do list.
-- [ ] Look up existing repositories that I can look at and review that would help me with my project.
+- [x] Look up existing repositories that I can look at and review that would help me with my project.
