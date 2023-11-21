@@ -12,9 +12,20 @@ What would you like to do? """
 
 selected_option = input(menu_prompt).strip().lower()
 
-
+#would like to add 'genre' and 'page count' options
 def add_book():
-    print("Adding...")
+    title = input("Title: ").strip().title()
+    author = input("Author: ").strip().title()
+    year = input("Year of publication: ").strip()
+
+    #dictionary
+    new_book = {
+        "title": title,
+        "author": author,
+        "year": year
+    }
+    
+    reading_list.append(new_book)
     
 def show_books():
     print("Displaying...")
