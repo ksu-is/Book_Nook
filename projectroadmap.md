@@ -6,6 +6,8 @@
 - [x] Start a new file in repository for project road map and start entering your project to-do list.
 - [x] Look up existing repositories that I can look at and review that would help me with my project.
 - [ ] Follow teclado reading list tutorial in order to get the beginning foundation of my code.
+- [ ] create basic 'add_book' and 'list_book' functions and basic program in Jupyter
+- [ ] Update code to be able to store files and information
 - [ ] Code first draft of BOOOKNOOK
 - [ ] Run and review draft and edit as necessary.
 - [ ] Keep adding and making drafts until satisfied.
