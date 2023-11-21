@@ -12,11 +12,19 @@ What would you like to do? """
 
 selected_option = input(menu_prompt).strip().lower()
 
+
+def add_book():
+    print("Adding...")
+    
+def show_books():
+    print("Displaying...")
+
+
 while selected_option != "q":
     if selected_option == "a":
-        print("Adding...")
+        add_book()
     elif selected_option == "l":
-        print("Displaying...")
+        show_book()
     else:
         print(f"Sorry, '{selected_option}' isn't a valid option.")
         
